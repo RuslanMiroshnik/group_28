@@ -1,0 +1,24 @@
+Description
+  Steps to reproduce
+  Actual result
+  Expected result
+Project
+Component
+Build version
+Severity
+  Blocker
+  Critical
+  Major
+  Minor
+  Trivial
+Priority
+  High
+  Medium
+  Low
+Status
+Author
+Environment
+  Dev
+  Stage
+  Prod
+Attachments
